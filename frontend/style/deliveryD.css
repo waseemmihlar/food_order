@@ -1,0 +1,68 @@
+@media only screen and (max-width: 1430px) {
+  .title {
+    position: relative;
+    left: 6px;
+    top: 56px;
+  }
+}
+@media (min-width: 1200px) {
+  .col-xl-12 {
+    flex: 0 0 auto;
+    width: 100%;
+    margin-left: 568px;
+    margin-top: 0;
+  }
+  .desc {
+    margin-top: 93px;
+    margin-top: -373px;
+    margin-right: 561px;
+    width: 502px;
+  }
+  .bike {
+    width: 618px;
+    height: 606px;
+    margin-top: -4px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .bike {
+    position: relative;
+    margin-top: 62px;
+    text-align: center;
+    height: 289px;
+    /* top: -37px; */
+  }
+  .imageC {
+    width: auto;
+    height: 319px;
+    margin-top: 61px;
+  }
+}
+
+/* @media only screen and (max-width: 1390px) {
+  .bike {
+    height: 31rem;
+    position: relative;
+    margin-top: 27px;
+  }
+  .desc {
+    margin-top: 93px;
+    margin-top: 38px;
+    margin-right: -115px;
+  }
+} */
+
+/* @media (max-width: 750px) {
+  .bike {
+    text-align: center;
+    margin-left: -136px;
+    height: 26rem;
+  }
+  img {
+    height: 26rem;
+  }
+}
+.col-xxl-6 {
+  width: 100%;
+} */

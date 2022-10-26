@@ -1,0 +1,14 @@
+@media screen and (max-width: 991px) {
+  /* .logo {
+    left: 30px;
+    position: relative;
+    top: 89px;
+  }
+  img {
+    position: relative;
+    top: 3rem;
+  } */
+}
+body{
+  overflow-x: hidden;
+}
